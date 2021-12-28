@@ -1,0 +1,15 @@
+
+#########initializing repository##########
+git config --global user.name "Jackson Hall"
+git config --global user.email "hall.jackson.r@gmail.com"
+git config --global github.user "jrhall1999"
+git config --global core.autocrlf true
+git config --global core.editor "nano -w"
+
+###############commands###########
+git status
+#gives us basic information about status, commits, untracked files
+git add
+git commit
+git push
+git pull
