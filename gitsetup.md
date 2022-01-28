@@ -37,4 +37,7 @@ manually specify the location, as `ssh-add /c/Users/jrhall/.ssh/id_ed25519`.
 The first time you pull (and maybe subsequent times?), you'll need
 to specify where you'd like to pull from. Instead of just using `git pull`,
 you need to use `git pull origin main`. I will now test
-and see if you need to add the `origin main` piece for all pulls. 
+and see if you need to add the `origin main` piece for all pulls.
+
+#### To connect Rstudio and GitHub:
+Please, for the love of all holy, just make the github repo first. Then, create the local git repository *using Rstudio GUI* and then, only then, use the repo as normal.
